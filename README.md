@@ -2,7 +2,7 @@ This repository contains a Jupyter Notebook that performs exploratory data analy
 
 Contents:
 
-- Hepatitis_EDA_Preprocessing.ipynb – The main notebook containing all steps:
+-Hepatitis_EDA_Preprocessing.ipynb – The main notebook containing all steps:
   1. Loading data into a Pandas DataFrame
   2. Checking data types and missing values
   3. Dropping irrelevant columns
